@@ -1,7 +1,7 @@
 {
   "name": "sodium-chloride-native-nodejs-mobile",
   "description": "sodium-native-nodejs-mobile wrapped with chloride API",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/staltz/sodium-chloride-native-nodejs-mobile",
   "main": "index.js",
   "repository": {
@@ -9,7 +9,7 @@
     "url": "git://github.com/staltz/sodium-chloride-native-nodejs-mobile.git"
   },
   "dependencies": {
-    "sodium-native-nodejs-mobile": "2.4.2-15",
+    "sodium-native-nodejs-mobile": "~2.4.2-15",
     "sodium-chloride": "~1.1.2"
   },
   "devDependencies": {
