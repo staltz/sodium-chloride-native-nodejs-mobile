@@ -9,8 +9,8 @@
     "url": "git://github.com/staltz/sodium-chloride-native-nodejs-mobile.git"
   },
   "dependencies": {
-    "sodium-native-nodejs-mobile": "~2.4.2-30",
-    "sodium-chloride": "~1.1.2"
+    "sodium-chloride": "~1.1.2",
+    "sodium-native-nodejs-mobile": "~2.4.2-30"
   },
   "devDependencies": {
     "chloride-test": "^1.2.2"
