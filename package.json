@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "sodium-chloride": "~1.1.2",
-    "sodium-native-nodejs-mobile": "~2.4.3-2"
+    "sodium-native-nodejs-mobile": "~2.4.3-3"
   },
   "devDependencies": {
     "chloride-test": "^1.2.2"
